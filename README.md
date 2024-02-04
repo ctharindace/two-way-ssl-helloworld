@@ -13,6 +13,7 @@ gradle bootRun
 ```
 * Navigate to a rest client of your choosing.
 * Enter the URl and call the microservice.
+<img width="817" alt="Screenshot 2024-02-04 at 2 00 33 PM" src="https://github.com/ctharindace/two-way-ssl-helloworld/assets/3063347/d33d7c17-fa30-4f07-b8f5-ab19d0df087f">
 
 ## Improvements
 Following are the improvements that can be done in the implementation:
